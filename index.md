@@ -26,10 +26,8 @@ Last year, along with my cohort comrade [Éloi Bitri](https://www.linkedin.com/i
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[October 2025]** Our first paper with [François Hublet](https://hblt.eu) is out in the Revue française de science politique. 
+- **[September 2025]** Thrilled to start my PhD at CRIS and Ined!
 
 {% include_relative _includes/publications.md %}
 
