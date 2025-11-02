@@ -9,7 +9,7 @@ main:
     notes: "Published"
 
   - title: "Class, Capital, and Chronic Illness: A Dispositionalist Approach to Long Covid Management"
-    author: "<strong>Mattéo Lanoë</strong>"
+    authors: "<strong>Mattéo Lanoë</strong>"
     conference_short: "ASA"
     conference: "2025 American Sociological Association Annual Meetings <strong>(ASA)</strong>, August 2025."
     pdf: "./assets/files/ASA_paper-2.pdf"
