@@ -8,6 +8,8 @@ Hi! My name is Mattéo Lanoë and I am a first-year Sociology PhD Candidate betw
 
 I am a graduate of the School of Research ('25), where I obtained my Master's of Research (MRes) in Sociology—which had a strong focus on both theory and methods. My master's dissertation dove into a sociology of dispositions and socialization approach to Long Covid management, and was supervised by [Anne Revillard](https://www.sciencespo.fr/cris/fr/annuaire/revillard-anne/) at CRIS. 
 
+You will find my CRIS institutionnal webpage [there](https://www.sciencespo.fr/cris/en/directory/lanoe-matteo/). 
+
 ## What Am I Interested In?
 
 **Dissertation Title:** 
