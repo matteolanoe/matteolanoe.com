@@ -31,4 +31,10 @@ Last year, along with my cohort comrade [Éloi Bitri](https://www.linkedin.com/i
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Teaching
+
+- **Méthodes quantitatives pour les sciences humaines et sociales**, Undergraduate course for Sciences Po Undergraduate College. Poitiers, France. _More to come next semester_.
+
+## For more info
+
+If you have any query on my research, or if you want to initiate a collaboration, please reach out! My two email addresses are: [matteo.lanoe@sciencespo.fr](mailto:matteo.lanoe@sciencespo.fr) and [matteo.lanoe@ined.fr](mailto:matteo.lanoe@ined.fr).
