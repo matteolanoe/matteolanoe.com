@@ -27,6 +27,7 @@ In short, my main interests are:
 - Sociology of Chronic Illnesses
 - Social-biological Interactions
 - Social Theory
+- Social Epidemiology
 
 ## My side projects
 
