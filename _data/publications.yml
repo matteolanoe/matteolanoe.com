@@ -1,28 +1,28 @@
 main:
+  - title: "A Tale of Three Cleavages: Quantifier le rôle des démarcations sociales dans l’élection présidentielle française de 2022"
+    authors: "François Hublet, <strong>Mattéo Lanoë</strong>"
+    conference_short: "RFSP"
+    conference: "Revue française de science politique <strong>(RFSP)</strong>, Avril/Juin 2025."
+    pdf: "https://shs.cairn.info/revue-revue-francaise-de-science-politique-2025-2-page-215?lang=fr&tab=premieres-lignes"
+    bibtex: "./assets/files/bibtex1.bib"
+    image: "./assets/img/im7.jpeg"
+    notes: "Published"
 
-  - title: A Tale of Three Cleavages Quantifier le rôle des démarcations sociales dans l’élection présidentielle française de 2022
-    authors: François Hublet, <strong>Mattéo Lanoë</strong>
-    conference_short: RFSP
-    conference: Revue française de science politique <strong>(RFSP)</strong>, Avril/Juin 2025.
-    pdf: https://shs.cairn.info/revue-revue-francaise-de-science-politique-2025-2-page-215?lang=fr&tab=premieres-lignes
-    bibtex: ./assets/files/bibtex1.bib
-    image: ./assets/img/im7.jpeg
-    notes: Published
-
- - title: "Class, Capital, and Chronic Illness: A Dispositionalist Approach to Long Covid Management"
-    authors: <strong>Mattéo Lanoë</strong>
-    conference_short: ASA
-    conference: 2025 American Sociological Association Annual Meetings <strong>(ASA)</strong>, August 2025.
-    pdf: ./assets/files/ASA_paper-2.pdf
-    bibtex: ./assets/files/asa_paper.bib
-    image: ./assets/img/asa_github.png
-    notes: Oral presentation
+  - title: "Class, Capital, and Chronic Illness: A Dispositionalist Approach to Long Covid Management"
+    author: "<strong>Mattéo Lanoë</strong>"
+    conference_short: "ASA"
+    conference: "2025 American Sociological Association Annual Meetings <strong>(ASA)</strong>, August 2025."
+    pdf: "./assets/files/ASA_paper-2.pdf"
+    bibtex: "./assets/files/asa_paper.bib"
+    image: "./assets/img/asa_github.png"
+    notes: "Oral presentation"
 
   - title: "Spelling out the European center-right’s dilemma: Renewal of the Grand coalition or National-Conservative Alliance?"
-    authors: François Hublet, <strong>Mattéo Lanoë</strong>, Johana Schleyer
-    conference_short: GEG Reports
-    conference: Groupe d études géopolitiques Reports <strong>(GEG Reports)</strong>, 2023.
-    pdf: ./assets/files/Rapport-Hublet-EN.pdf
-    bibtex: ./assets/files/geg_paper.bib
-    notes: Report
-    image: ./assets/img/github_preview_geg.png
+    authors: "François Hublet, <strong>Mattéo Lanoë</strong>, Johana Schleyer"
+    conference_short: "GEG Reports"
+    conference: "Groupe d’études géopolitiques Reports <strong>(GEG Reports)</strong>, 2023."
+    pdf: "./assets/files/Rapport-Hublet-EN.pdf"
+    bibtex: "./assets/files/geg_paper.bib"
+    image: "./assets/img/github_preview_geg.png"
+    notes: "Report"
+
