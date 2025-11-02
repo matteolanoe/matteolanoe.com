@@ -1,7 +1,7 @@
 main:
 
   - title: A Tale of Three Cleavages Quantifier le rôle des démarcations sociales dans l’élection présidentielle française de 2022
-    authors: François Hublet, Mattéo Lanoë
+    authors: François Hublet, Mattéo Lanoë</strong>
     conference_short: RFSP
     conference: Revue française de science politique <strong>(RFSP)</strong>, Avril/Juin 2025.
     pdf: https://shs.cairn.info/revue-revue-francaise-de-science-politique-2025-2-page-215?lang=fr&tab=premieres-lignes
@@ -9,13 +9,11 @@ main:
     image: ./assets/img/im7.jpeg
     notes: Published
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Spelling out the European center-right’s dilemma: Renewal of the Grand coalition or National-Conservative Alliance?"
+    authors: François Hublet, Mattéo Lanoë</strong>, Johana Schleyer
+    conference_short: GEG Reports
+    conference: "Groupe d'études géopolitiques Reports" <strong>(GEG Reports)</strong>, 2023.
+    pdf: ./assets/files/Rapport-Hublet-EN.pdf
+    bibtex: ./assets/files/geg_paper.bib
+    notes: Report
+    image: ./assets/img/github_preview.png
