@@ -20,6 +20,14 @@ My PhD research project lies at the intersection of sociology of health and illn
 
 Besides, I also dive into issues related to political science, electoral sociology, sociology of education, and the use of methods (either qualitative or quantitative) for social inquiry.
 
+In short, my main interests are: 
+- Socialization and dispositions
+- Social Health Inequalities
+- Sociology of Health and Illness / Medical Sociology
+- Sociology of Chronic Illnesses
+- Social-biological Interactions
+- Social Theory
+
 ## My side projects
 
 For five years up to now, I have been a member of the editorial board of the [Electoral Bulletin of the European Union (BLUE)](https://geopolitique.eu/numeros/elections-en-europe-2024/), a review published by the Groupe d'études géopolitiques based at the ENS. We publish bi-annual issues, covering elections taking place within the European continent. The publication process is done under the merry guidance of [François Hublet](https://hblt.eu), our great editor-in-chief!
