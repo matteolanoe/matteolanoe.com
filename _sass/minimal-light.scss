@@ -595,3 +595,30 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* Override to make the avatar a vertical rectangle */
+.image.avatar,
+.image.avatar:before {
+  /* keep a small corner radius instead of a circle */
+  border-radius: 0.35em !important;
+}
+
+/* header container: set a vertical rectangle size and hide overflow */
+#header .image.avatar {
+  width: 6.0em;
+  height: 9.0em;
+  margin: 0 0 1em 0;
+  overflow: hidden;
+  border-radius: 0.35em !important;
+}
+
+/* ensure the <img> fills the container and is cropped correctly */
+.image.avatar img {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  padding: 0 !important;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-radius: 0.35em !important;
+}
