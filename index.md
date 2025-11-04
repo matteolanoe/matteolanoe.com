@@ -22,7 +22,7 @@ Besides, I also dive into issues related to political science, electoral sociolo
 
 In short, my main interests are: 
 - Socialization and dispositions
-- Body and Embodiement
+- Body and Embodiment
 - Social Health Inequalities
 - Sociology of Health and Illness / Medical Sociology
 - Sociology of Chronic Illnesses
